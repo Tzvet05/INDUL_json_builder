@@ -12,7 +12,7 @@
 #define JSON_FILE_ENTITY_NUMBER	"{\"entity_number\":"
 
 // Json file content before the Y position field
-#define JSON_FILE_ENTITY_POS_Y	",\"name\":\"constant-combinator\",\"position\":{\"x\":0,\"y\":-"
+#define JSON_FILE_ENTITY_POS_Y	",\"name\":\"constant-combinator\",\"position\":{\"x\":0,\"y\":"
 
 // Json file content before the count field
 #define JSON_FILE_ENTITY_COUNT	"},\"direction\":4,\"control_behavior\":{\"sections\":{\"sections\":[{\"index\":1,\"filters\":[{\"index\":1,\"type\":\"virtual\",\"name\":\"signal-0\",\"quality\":\"normal\",\"comparator\":\"=\",\"count\":"

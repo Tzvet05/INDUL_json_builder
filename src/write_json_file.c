@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <string.h>
 #include "indul_json_builder.h"
 #include "json_constant.h"
