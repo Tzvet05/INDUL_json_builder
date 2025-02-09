@@ -6,3 +6,5 @@
 
 [TODO] - encode on 512 signals per combinator (to be separated using a selector)
 -> ROM of all of the game's signals
+signals order : item (nothing), virtual, recipe, entity, space-location
+fluid ???
